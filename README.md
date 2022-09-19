@@ -9,7 +9,7 @@
   
 - **결과**
 
-  Open Eye와 Closed Eye로 각각 인지
+  Face와 Open Eye와 Closed Eye로 각각 인지
 
 - **설명**
 
