@@ -1,5 +1,7 @@
 # 알파코 부트캠프 2기 객체인식 프로젝트
-## Drowsy driving awareness for safe_driving - 졸음 운전 인식
+
+* * *
+### Drowsy driving awareness for safe_driving - 졸음 운전 인식
 
 - **목표**
 
